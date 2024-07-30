@@ -1,27 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Vídeo: Falando sobre boa saúde com as IAs Generativas 🎥
 
-## 🚀 Introdução
+## 📒 Descrição
+Este vídeo de menos de 2 minutos fala sobre importância da alimentação e atividade física para exemplificar o uso de Inteligência Artificial Generativa na criação de conteúdo
 
-> Woooow! Look at this 👀
+## 🤖 Tecnologias Utilizadas
+- IA Generativa **[Copilot](https://copilot.microsoft.com)** para roteirização e revisão;
+- IA Generativa **[D-ID](https://www.d-id.com)** para geração de avatar virtual;
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🧐 Processo de Criação
+Usei o "Copilot" da Microsoft para escrever e revisar o roteiro do vídeo. O "D-ID" foi usado para criar o avatar e a fala do texto criado.
+## 🚀 Resultados
+O Resultado é um texto simples sobre combinar boa alimentação e atividade física para manter uma boa saúde
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+[LINK PARA O VÍDEO AQUI](https://studio.d-id.com/share?id=3812621879b13eb5394ac0fe20e655e2&utm_source=copy)
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
+## 💭 Reflexão
+As IAs Generativas são realidade na sociedade. Aprender como funcionam de maneira mais profunda e aplicar conhecimento em projeto é essencial para consolidar a aprendizagem
 ## 📒 Descrição
 Breve descrição do seu projeto
 
